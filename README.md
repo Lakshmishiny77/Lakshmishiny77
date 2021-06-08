@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Lakshmishiny77
+- 👋 Hi, I’m Lakshmi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 lakshmi.b.pythondev@gmail.com
 
 <!---
 Lakshmishiny77/Lakshmishiny77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
